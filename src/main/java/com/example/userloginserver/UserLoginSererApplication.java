@@ -1,4 +1,4 @@
-package com.example.userloginserer;
+package com.example.userloginserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
